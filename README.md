@@ -43,7 +43,7 @@ It uses two extension for create playlist. They are listed out in the following,
 1. #EXTM3U
 2. #EXTINF
 
-# #EXTM3U
+## #EXTM3U
 
 It is file header. It is a default one for creating M3U playlist.
 
@@ -55,7 +55,7 @@ The playlist is start from this line. Without this we cannot start playlist.
 #EXTM3U
 ```
 
-# #EXTINF
+## #EXTINF
 
 This is used to Add file path to the playlist.
 
