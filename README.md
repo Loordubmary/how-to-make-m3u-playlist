@@ -18,8 +18,8 @@ M3U file is a plain text file that specifies the path of one or more media files
 
 Each entry carries one media path. The media path can be referred by the following ways:
 
--localpath
+- localpath
 	- e.g., C:\My Music\Heavysets.mp3 (External Folder)
 	- e.g. Heavysets.mp3 (Internal Folder)
--URL
+- URL
 	- e.g., http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
