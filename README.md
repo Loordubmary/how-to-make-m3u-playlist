@@ -63,8 +63,8 @@ This is also used tracking all information about the playlist like filename, dur
 
 ### Example:
 
-```
-#E#EXTINF:191,Artist Name - Track Title
+```m3u
+#EXTINF:191,Artist Name - Track Title
 ```
 
 # Sample playlist
